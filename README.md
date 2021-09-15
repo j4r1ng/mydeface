@@ -26,7 +26,7 @@ tools mydeface adalah dari AOXdeface yang telah diedit(Bahasa Malaysia)
 <li>apt-get install git</li>
 <li>git clone https://github.com/j4r1ng/mydeface</li>
 <li>cd deface</li>
-<li>python2 d.py</li>
+<li>python d.py</li>
 <p>
 
 CATATAN: sebelum menggunakan alat ini, masukkan skrip deface anda dengan fail d.py, 
