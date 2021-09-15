@@ -18,7 +18,7 @@ banner = """
 
 File Asal  : AOXdeface
 Date       : 2021-9-06
-Tools      : deface V.2.0 (Bahasa Malaysia)
+Tools      : mydeface (Bahasa Malaysia)
 Github     : /j4r1ng 
 """
 
