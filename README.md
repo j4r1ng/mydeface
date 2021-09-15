@@ -1,12 +1,21 @@
 ![mydeface](https://i.ibb.co/51GRdKY/IMG-20210915-122309.png)
 
-Apakah alat mydeface?
+------------------------------------------------------------------------
+
+### Pengenalan
+*Apakah alat mydeface?*
 mydeface adalah alat untuk memusnahkan puluhan atau ratusan laman web sekaligus, 
 bergantung pada jumlah laman web yang telah anda tetapkan, 
 ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 
 <p>
-tools mydeface adalah dari AOXdeface yang telah diedit(Bahasa Malaysia)
+tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
+
+* `Bahasa Malaysia`
+* `vuln website`
+* `html script`
+
+
 </p>
 <p>cara memasang dan penggunaan:</p>
 
