@@ -39,5 +39,6 @@ tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
 
 ------------------------------------------------------------------------
 
-CATATAN: sebelum menggunakan alat ini, masukkan skrip deface anda dengan fail d.py, 
+### CATATAN: 
+sebelum menggunakan alat ini, masukkan skrip deface anda dengan fail d.py, 
 edit fail 'target.txt' dan masukkan url sasaran.
