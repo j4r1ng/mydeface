@@ -10,9 +10,9 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 
 tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
 
-* `Bahasa Malaysia`
-* `vuln website`
-* `html script`
+* `Bahasa Malaysia` (d.py)
+* `vuln website` (target.txt)
+* `html script` (myscript.html)
 
 ------------------------------------------------------------------------
 
@@ -37,6 +37,10 @@ tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
 <li>python d.py</li>
 <p>
 
+Cara guna:- 
+
+1)type python2.py
+2)lepastu masukkan file html anda:- myscipt.html
 ------------------------------------------------------------------------
 
 ### CATATAN: 
