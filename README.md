@@ -37,10 +37,10 @@ tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
 <li>python d.py</li>
 <p>
 
-Cara guna:- 
+### Cara guna:- 
 
-1)type python2.py
-2)lepastu masukkan file html anda:- myscipt.html
+<li>type python2.py</li>
+<li>lepastu masukkan file html anda:- myscipt.html</li>
 ------------------------------------------------------------------------
 
 ### CATATAN: 
