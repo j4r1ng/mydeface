@@ -13,9 +13,8 @@ banner = """
  |m|y|d|e|f|a|c|e|
  +-+-+-+-+-+-+-+-+
 
-File Asal  : AOXdeface
 Date       : 2021-9-15
-Tools      : mydeface (Bahasa Malaysia)
+Tools      : mydeface
 Github     : /j4r1ng 
 """
 
