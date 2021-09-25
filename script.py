@@ -1,13 +1,8 @@
 #!/usr/bin/python
-#######################
-#  https://github.com/j4r1ng    #
-#######################
-mess = """======================================================
-             Pembuatan Script Deface        
-                        ./Jaring
-======================================================"""
+################################
+# https://github.com/j4r1ng    #
+################################
 
-print mess
 print "Created by Jaring"
 title = raw_input("Tajuk title: ")
 heading = raw_input("Hacked by: ")
