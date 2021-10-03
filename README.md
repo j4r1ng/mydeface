@@ -11,7 +11,6 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
 
 * `Bahasa Malaysia` (d.py)
-* `vuln website` (target.txt)
 * `html script` (myscript.html)
 
 ------------------------------------------------------------------------
