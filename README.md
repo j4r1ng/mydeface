@@ -8,8 +8,6 @@ mydeface adalah alat untuk memusnahkan puluhan atau ratusan laman web sekaligus,
 bergantung pada jumlah laman web yang telah anda tetapkan, 
 ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 
-tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
-
 * `Bahasa Malaysia` (d.py)
 * `html script` (myscript.html)
 
@@ -39,7 +37,7 @@ tools mydeface adalah dari AOXdeface yang telah diedit:-</p>
 ### Cara guna:- 
 
 <li>type python2.py</li>
-<li>lepastu masukkan file html anda:- myscipt.html</li>
+<li>lepastu masukkan file html anda:- myscript.html</li>
 ------------------------------------------------------------------------
 
 ### CATATAN: 
