@@ -10,7 +10,7 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 
 * `Bahasa Malaysia` (d.py)
 * `html script` (myscript.html/touch.html/pantun.html)
-* `target.txt (vuln website)
+* `target.txt` (vuln website)
 
 ------------------------------------------------------------------------
 
