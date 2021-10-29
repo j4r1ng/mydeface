@@ -9,7 +9,7 @@ bergantung pada jumlah laman web yang telah anda tetapkan,
 ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 
 * `Bahasa Malaysia` (d.py)
-* `html script` (myscript.html/touch.html/pantun.html)
+* `html script` (3 scripts)
 * `target.txt` (vuln website)
 
 ------------------------------------------------------------------------
