@@ -4,9 +4,12 @@
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+
+[![Twitter: MrJaring](https://img.shields.io/twitter/follow/MrJaring?style=social)](https://twitter.com/MrJaring)
+[![GitHub j4r1ng](https://img.shields.io/github/followers/j4r1ng?label=follow&style=social)](https://github.com/j4r1ng)
 
 ------------------------------------------------------------------------
 
