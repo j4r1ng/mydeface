@@ -1,5 +1,7 @@
 ![mydeface](https://i.ibb.co/51GRdKY/IMG-20210915-122309.png)
-
+[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
+</center>
+<p>
 
 <p align="center">
 
