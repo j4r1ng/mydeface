@@ -34,6 +34,9 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 <li>python2 d.py</li>
 <br>
 
+![screenshot](https://armano.vn/images/mydeface-ss.jpg)
+
+
 <p>Linux:</p>
 <li>apt-get install python</li>
 <li>apt-get install pthon-pip</li>
