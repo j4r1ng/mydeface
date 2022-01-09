@@ -30,7 +30,7 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 <li>pip2 install requests</li>
 <li>pkg install git</li>
 <li>git clone https://github.com/j4r1ng/mydeface</li>
-<li>cd deface</li>
+<li>cd mydeface</li>
 <li>python2 d.py</li>
 <br>
 
@@ -47,7 +47,7 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 ### Cara guna:- 
 
 <li>type python2.py</li>
-<li>lepastu masukkan file html anda:- myscript.html atau pantun.html</li>
+<li>lepastu masukkan file html anda:- pantun.html</li>
 
 ------------------------------------------------------------------------
 
