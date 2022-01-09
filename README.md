@@ -47,9 +47,16 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 ### Cara guna:- 
 
 <li>type python2.py</li>
-<li>lepastu masukkan file html anda:- myscript.html</li>
+<li>lepastu masukkan file html anda:- myscript.html atau pantun.html</li>
+
 ------------------------------------------------------------------------
 
 ### CATATAN: 
-sebelum menggunakan alat ini, masukkan skrip deface anda dengan fail d.py, 
-edit fail 'target.txt' dan masukkan url sasaran.
+sebelum menggunakan alat ini:- 
+<li>edit file html yang telah disediakan</li>
+<li>edit fail 'target.txt' dan masukkan url sasaran.</li>
+<p>
+Untuk edit file anda mesti install file --> nano
+<br>
+<li>apt install nano</li>
+<li>cara edit type ---> nano (namafile)</li>
