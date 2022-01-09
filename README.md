@@ -40,7 +40,7 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 <li>pip install requests</li>
 <li>apt-get install git</li>
 <li>git clone https://github.com/j4r1ng/mydeface</li>
-<li>cd deface</li>
+<li>cd mydeface</li>
 <li>python d.py</li>
 <p>
 
