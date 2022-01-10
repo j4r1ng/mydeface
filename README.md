@@ -35,8 +35,6 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 <li>python2 d.py</li>
 <br>
 
-![screenshot](https://armano.vn/images/mydeface-ss.jpg)
-
 
 <p>Linux:</p>
 <li>apt-get install python</li>
@@ -50,6 +48,8 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 
 ### Cara guna:- 
 
+![screenshot](https://armano.vn/images/mydeface-ss.jpg)
+
 <li>type python2.py</li>
 <li>lepastu masukkan file html anda:- pantun.html</li>
 
@@ -60,7 +60,7 @@ sebelum menggunakan alat ini:-
 <li>edit file html yang telah disediakan</li>
 <li>edit fail 'target.txt' dan masukkan url sasaran.</li>
 <p>
-Untuk edit file anda mesti install file --> nano
+*Untuk edit file anda mesti install file --> nano
 <br>
 <li>apt install nano</li>
 <li>cara edit type ---> nano (namafile)</li>
