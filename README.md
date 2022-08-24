@@ -64,3 +64,6 @@ sebelum menggunakan alat ini:-
 <br>
 <li>apt install nano</li>
 <li>cara edit type ---> nano (namafile)</li>
+
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=j4r1ng)
