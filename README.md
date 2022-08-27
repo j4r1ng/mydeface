@@ -1,4 +1,4 @@
-![Jaring](https://armano.vn/images/mydeface.jpg)
+![Jaring](https://i.ibb.co/MgGBS2T/ezgif-com-gif-maker-1.gif)
 
 ![python](https://img.shields.io/badge/made%20with-python-blue.svg)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
